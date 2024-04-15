@@ -29,6 +29,6 @@ document.querySelector(".content").onclick=()=>{
     fadeIn()
 }
 
-// document.querySelector(".player").onclick=()=>{
+document.querySelector(".player").onclick=()=>{
     
-// }
+}
