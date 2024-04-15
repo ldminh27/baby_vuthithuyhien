@@ -30,5 +30,5 @@ document.querySelector(".content").onclick=()=>{
 }
 
 document.querySelector(".player").onclick=()=>{
-    
+    fadeIn()
 }
